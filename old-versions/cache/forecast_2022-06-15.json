@@ -1,0 +1,242 @@
+[
+    {
+        "1655272800.0": {
+            "temp": 22.4,
+            "apparent": 22.9,
+            "clouds": 30.0,
+            "wind_speed": 3.7,
+            "wind_dir": 281.0,
+            "status": 1.0
+        }
+    },
+    {
+        "1655276400.0": {
+            "temp": 22.5,
+            "apparent": 23.2,
+            "clouds": 33.0,
+            "wind_speed": 4.2,
+            "wind_dir": 290.0,
+            "status": 1.0
+        }
+    },
+    {
+        "1655280000.0": {
+            "temp": 22.8,
+            "apparent": 24.4,
+            "clouds": 49.0,
+            "wind_speed": 2.3,
+            "wind_dir": 288.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655283600.0": {
+            "temp": 23.1,
+            "apparent": 25.1,
+            "clouds": 71.0,
+            "wind_speed": 1.8,
+            "wind_dir": 233.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655287200.0": {
+            "temp": 23.0,
+            "apparent": 24.4,
+            "clouds": 87.0,
+            "wind_speed": 1.8,
+            "wind_dir": 191.0,
+            "status": 3.0
+        }
+    },
+    {
+        "1655290800.0": {
+            "temp": 22.6,
+            "apparent": 23.9,
+            "clouds": 90.0,
+            "wind_speed": 3.7,
+            "wind_dir": 209.0,
+            "status": 3.0
+        }
+    },
+    {
+        "1655294400.0": {
+            "temp": 22.4,
+            "apparent": 23.9,
+            "clouds": 100.0,
+            "wind_speed": 4.3,
+            "wind_dir": 180.0,
+            "status": 3.0
+        }
+    },
+    {
+        "1655298000.0": {
+            "temp": 22.2,
+            "apparent": 23.7,
+            "clouds": 59.0,
+            "wind_speed": 3.7,
+            "wind_dir": 191.0,
+            "status": 80.0
+        }
+    },
+    {
+        "1655301600.0": {
+            "temp": 22.0,
+            "apparent": 23.3,
+            "clouds": 66.0,
+            "wind_speed": 2.6,
+            "wind_dir": 196.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655305200.0": {
+            "temp": 21.9,
+            "apparent": 22.1,
+            "clouds": 67.0,
+            "wind_speed": 2.2,
+            "wind_dir": 270.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655308800.0": {
+            "temp": 21.4,
+            "apparent": 20.5,
+            "clouds": 61.0,
+            "wind_speed": 5.9,
+            "wind_dir": 317.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655312400.0": {
+            "temp": 20.8,
+            "apparent": 19.2,
+            "clouds": 52.0,
+            "wind_speed": 8.7,
+            "wind_dir": 322.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655316000.0": {
+            "temp": 19.7,
+            "apparent": 17.3,
+            "clouds": 44.0,
+            "wind_speed": 12.7,
+            "wind_dir": 325.0,
+            "status": 1.0
+        }
+    },
+    {
+        "1655319600.0": {
+            "temp": 19.3,
+            "apparent": 16.7,
+            "clouds": 51.0,
+            "wind_speed": 13.6,
+            "wind_dir": 323.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655323200.0": {
+            "temp": 19.2,
+            "apparent": 16.7,
+            "clouds": 73.0,
+            "wind_speed": 12.0,
+            "wind_dir": 321.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655326800.0": {
+            "temp": 19.1,
+            "apparent": 16.8,
+            "clouds": 75.0,
+            "wind_speed": 10.2,
+            "wind_dir": 321.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655330400.0": {
+            "temp": 18.8,
+            "apparent": 16.5,
+            "clouds": 71.0,
+            "wind_speed": 10.2,
+            "wind_dir": 321.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655334000.0": {
+            "temp": 18.5,
+            "apparent": 16.3,
+            "clouds": 68.0,
+            "wind_speed": 10.2,
+            "wind_dir": 318.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655337600.0": {
+            "temp": 18.4,
+            "apparent": 16.1,
+            "clouds": 77.0,
+            "wind_speed": 10.2,
+            "wind_dir": 321.0,
+            "status": 3.0
+        }
+    },
+    {
+        "1655341200.0": {
+            "temp": 18.3,
+            "apparent": 15.9,
+            "clouds": 74.0,
+            "wind_speed": 9.7,
+            "wind_dir": 321.0,
+            "status": 3.0
+        }
+    },
+    {
+        "1655344800.0": {
+            "temp": 18.3,
+            "apparent": 15.8,
+            "clouds": 76.0,
+            "wind_speed": 9.3,
+            "wind_dir": 324.0,
+            "status": 3.0
+        }
+    },
+    {
+        "1655348400.0": {
+            "temp": 18.4,
+            "apparent": 16.2,
+            "clouds": 64.0,
+            "wind_speed": 7.5,
+            "wind_dir": 325.0,
+            "status": 2.0
+        }
+    },
+    {
+        "1655352000.0": {
+            "temp": 19.2,
+            "apparent": 17.3,
+            "clouds": 29.0,
+            "wind_speed": 6.4,
+            "wind_dir": 322.0,
+            "status": 1.0
+        }
+    },
+    {
+        "1655355600.0": {
+            "temp": 20.3,
+            "apparent": 19.0,
+            "clouds": 0.0,
+            "wind_speed": 1.5,
+            "wind_dir": 346.0,
+            "status": 0.0
+        }
+    }
+]
